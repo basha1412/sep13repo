@@ -2,3 +2,12 @@ hi guys
 this is my first test file 
 
 hey this is my second commit 
+
+
+----
+
+hey I am adding new lines for IDE - ECLIPSE 
+
+-----
+
+U NEED TO CREATE A PR , after ur manager approval . merge this code to ur master branch 
